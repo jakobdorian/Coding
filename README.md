@@ -1,2 +1,2 @@
 # LCP
-Leetcode Practice written in Python
+My Personal Leetcode Progress
